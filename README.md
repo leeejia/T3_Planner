@@ -37,3 +37,15 @@ Execute the corresponding main file for the scenario you wish to run.
 
 After execution, the results (including logs, plots, and JSONL files) will be saved in the `result/<SCENARIO>/<MODEL>` directory.
 
+
+If you find this repository useful in your research, please cite the following paper:
+```bibtex
+@misc{li2025t3plannerselfcorrectingllm,
+      title={T3 Planner: A Self-Correcting LLM Framework for Robotic Motion Planning with Temporal Logic}, 
+      author={Jia Li and Guoxiang Zhao},
+      year={2025},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2510.16767}, 
+}
+```
