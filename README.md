@@ -4,7 +4,7 @@
 This repository contains the code implementation for our paper: [$T^3$ Planner: A Self-Correcting LLM Framework for Robotic Motion Planning with Temporal Logic](https://arxiv.org/pdf/2510.16767)
 The framework decomposes spatio-temporal task constraints via three modules, each of which stimulates an LLM to generate candidate trajectory sequences and examines their feasibility via a Signal Temporal Logic (STL) verifier until one that satisfies complex spatial, temporal, and logical constraints is found.
 
-![T3 Planner Framework](T3 Planner Framework.png)
+![T3 Planner Framework](T3%20Planner%20Framework.png)
 
 ## Installation
 
